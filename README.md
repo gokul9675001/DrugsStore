@@ -1,1 +1,1 @@
-# DrugsStore.github.io
+# DrugsStore
